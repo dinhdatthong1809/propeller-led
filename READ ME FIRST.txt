@@ -1,0 +1,13 @@
+HO TEN SINH VIEN	: DINH DAT THONG
+MSSV			: 15520853
+TRUONG			: DAI HOC CONG NGHE THONG TIN
+KHOA			: KY THUAT MAY TINH - K10
+MON HOC			: VI XU LY - VI DIEU KHIEN
+DE TAI DO AN		: LED QUAY
+
+TRONG TAP TIN "PROPELLER LED" BAO GOM
+IMAGES			: Gom file hinh anh mach in, ket qua do an va mot so hinh anh led quay tu ve
+REPORT			: Gom file word bao cao, file pdf bao cao va file tinh toan ham tao tre
+SCHEMATIC AND PCB	: Gom file so do mach mo phong va mach in tren Proteus 8 Professional
+SLIDE			: Gom file Slide thuyet trinh PowerPoint
+SOURCE CODE		: Gom file PROPELLER LED CODE.txt
